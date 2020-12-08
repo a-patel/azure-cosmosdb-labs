@@ -1,6 +1,53 @@
-# Azure CosmosDB Labs
-Demo: Azure CosmosDB + ASP.NET Core
+# Azure CosmosDB (with .NET) Labs
 
+> Demo: Azure CosmosDB + .NET 5.x
+
+
+
+
+
+Please refer to below article(s) of my publication [Awesome Azure](https://medium.com/awesome-azure) on Azure CosmosDB:
+
+
+
+
+---
+
+# Documentation - Coming soon
+
+## Usage: Web/API Application :page_facing_up:
+
+### Step 1 : Install the package :package:
+
+> To install NuGet, run the following command in the [Package Manager Console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console)
+
+```Powershell
+PM> 
+```
+
+
+### Step 2 : Configuration 🔨
+
+> Here are samples that show you how to config.
+
+##### 2.1 : AppSettings
+
+```js
+
+```
+
+##### 2.2 : Configure Program Class
+
+```cs
+
+```
+
+
+### Step 3 : Use in Controller or Business layer :memo:
+
+```cs
+
+```
 
 
 
@@ -10,15 +57,18 @@ Demo: Azure CosmosDB + ASP.NET Core
 
 
 
+
+
 ## Give a Star! :star:
+
 Feel free to request an issue on github if you find bugs or request a new feature. Your valuable feedback is much appreciated to better improve this project. If you find this useful, please give it a star to show your support for this project.
 
 
 ## Support :telephone:
+
 > Reach out to me at one of the following places!
 
 - Email :envelope: at <a href="mailto:toaashishpatel@gmail.com" target="_blank">`toaashishpatel@gmail.com`</a>
-- NuGet :package: at <a href="https://www.nuget.org/profiles/iamaashishpatel" target="_blank">`@iamaashishpatel`</a>
 
 
 ## Author :boy:
@@ -28,12 +78,13 @@ Feel free to request an issue on github if you find bugs or request a new featur
 
 ##### Connect with me
 
-| Linkedin | Website | Medium | NuGet | GitHub | Microsoft | Facebook | Twitter | Instagram | Tumblr |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| [![linkedin](https://img.icons8.com/ios-filled/96/000000/linkedin.png)](https://www.linkedin.com/in/iamaashishpatel) | [![website](https://img.icons8.com/wired/96/000000/domain.png)](https://aashishpatel.netlify.app/) | [![medium](https://img.icons8.com/ios-filled/96/000000/medium-monogram.png)](https://medium.com/@iamaashishpatel) | [![nuget](https://img.icons8.com/windows/96/000000/nuget.png)](https://nuget.org/profiles/iamaashishpatel) | [![github](https://img.icons8.com/ios-glyphs/96/000000/github.png)](https://github.com/a-patel) | [![microsoft](https://img.icons8.com/ios-filled/90/000000/microsoft.png)](https://docs.microsoft.com/en-us/users/iamaashishpatel) | [![facebook](https://img.icons8.com/ios-filled/90/000000/facebook.png)](https://www.facebook.com/aashish.mrcool) | [![twitter](https://img.icons8.com/ios-filled/96/000000/twitter.png)](https://twitter.com/aashish_mrcool) | [![instagram](https://img.icons8.com/ios-filled/90/000000/instagram-new.png)](https://www.instagram.com/iamaashishpatel/) | [![tumblr](https://img.icons8.com/ios-filled/96/000000/tumblr--v1.png)](https://iamaashishpatel.tumblr.com/) |
+| Linkedin | Portfolio | Medium | GitHub | NuGet | Microsoft | Twitter | Facebook | Instagram |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| [![linkedin](https://img.icons8.com/ios-filled/96/000000/linkedin.png)](https://www.linkedin.com/in/iamaashishpatel) | [![Portfolio](https://img.icons8.com/wired/96/000000/domain.png)](https://aashishpatel.netlify.app/) | [![medium](https://img.icons8.com/ios-filled/96/000000/medium-monogram.png)](https://iamaashishpatel.medium.com) | [![github](https://img.icons8.com/ios-glyphs/96/000000/github.png)](https://github.com/a-patel) | [![nuget](https://img.icons8.com/windows/96/000000/nuget.png)](https://nuget.org/profiles/iamaashishpatel) | [![microsoft](https://img.icons8.com/ios-filled/90/000000/microsoft.png)](https://docs.microsoft.com/en-us/users/iamaashishpatel) | [![twitter](https://img.icons8.com/ios-filled/96/000000/twitter.png)](https://twitter.com/aashish_mrcool) | [![facebook](https://img.icons8.com/ios-filled/90/000000/facebook.png)](https://www.facebook.com/aashish.mrcool) | [![instagram](https://img.icons8.com/ios-filled/90/000000/instagram-new.png)](https://www.instagram.com/iamaashishpatel/) |
 
 
 ## Donate :dollar:
+
 If you find this project useful — or just feeling generous, consider buying me a beer or a coffee. Cheers! :beers: :coffee:
 | PayPal | BMC | Patreon |
 | ------------- | ------------- | ------------- |

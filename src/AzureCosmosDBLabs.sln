@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBLabs.CassandraApi", "AzureCosmosDBLabs.CassandraApi\AzureCosmosDBLabs.CassandraApi.csproj", "{0EC0068B-67FB-4240-919C-520132933E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBLabs.GremlinApi", "AzureCosmosDBLabs.GremlinApi\AzureCosmosDBLabs.GremlinApi.csproj", "{CC3CBDC2-3C23-4CBB-B06E-E5EA16C7E07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBLabs.MongoApi", "AzureCosmosDBLabs.MongoApi\AzureCosmosDBLabs.MongoApi.csproj", "{709D123C-F4ED-4B79-8AF6-4A6F76A314C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBLabs.SqlApi", "AzureCosmosDBLabs.SqlApi\AzureCosmosDBLabs.SqlApi.csproj", "{73A7AA57-3F5E-41BA-9A02-257A570FF9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBLabs.TableApi", "AzureCosmosDBLabs.TableApi\AzureCosmosDBLabs.TableApi.csproj", "{2B301C76-8355-4D93-9A59-F5F815A5C198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBLabsDemo", "AzureCosmosDBLabsDemo\AzureCosmosDBLabsDemo.csproj", "{CCE23580-0056-4F89-9E13-B7F8B911B586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC0068B-67FB-4240-919C-520132933E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC0068B-67FB-4240-919C-520132933E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC0068B-67FB-4240-919C-520132933E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC0068B-67FB-4240-919C-520132933E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3CBDC2-3C23-4CBB-B06E-E5EA16C7E07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3CBDC2-3C23-4CBB-B06E-E5EA16C7E07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3CBDC2-3C23-4CBB-B06E-E5EA16C7E07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3CBDC2-3C23-4CBB-B06E-E5EA16C7E07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709D123C-F4ED-4B79-8AF6-4A6F76A314C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709D123C-F4ED-4B79-8AF6-4A6F76A314C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709D123C-F4ED-4B79-8AF6-4A6F76A314C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709D123C-F4ED-4B79-8AF6-4A6F76A314C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A7AA57-3F5E-41BA-9A02-257A570FF9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A7AA57-3F5E-41BA-9A02-257A570FF9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A7AA57-3F5E-41BA-9A02-257A570FF9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A7AA57-3F5E-41BA-9A02-257A570FF9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B301C76-8355-4D93-9A59-F5F815A5C198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B301C76-8355-4D93-9A59-F5F815A5C198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B301C76-8355-4D93-9A59-F5F815A5C198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B301C76-8355-4D93-9A59-F5F815A5C198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE23580-0056-4F89-9E13-B7F8B911B586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE23580-0056-4F89-9E13-B7F8B911B586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE23580-0056-4F89-9E13-B7F8B911B586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE23580-0056-4F89-9E13-B7F8B911B586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {347F7DB0-E5BE-47F3-BA84-DE9CBF18BF73}
+	EndGlobalSection
+EndGlobal
